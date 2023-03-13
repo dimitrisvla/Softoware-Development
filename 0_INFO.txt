@@ -1,0 +1,7 @@
+Name: name
+AFM: 0
+Status: Single
+Income: 12000.0
+
+Receipts:
+

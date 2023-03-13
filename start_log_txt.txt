@@ -1,0 +1,13 @@
+Name	Name: 
+AFM	AFM:  
+Income	Income: 
+BasicTax	Basic Tax: 
+TaxIncrease	Tax Increase: 
+TaxDecrease	Tax Decrease: 
+TotalTax	Total Tax: 
+Receipts	TotalReceiptsGathered: 
+Entertainment	Entertainment: 
+Basic	Basic: 
+Travel	Travel: 
+Health	Health: 
+Other	Other: 
